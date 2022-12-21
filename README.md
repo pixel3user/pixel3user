@@ -2,6 +2,7 @@
 
 ## I'm a Developer and a Student at Chandigarh University !!
 
+[![](https://github.com/pixel3user/pixel3user/blob/main/img/dino.gif)](https://chromedino.com)
 
 
 ### Connect with me:
